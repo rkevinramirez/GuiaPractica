@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div id="blue" class="slider slider-horizontal"><div class="slider-track"><div style="left: 0px; width: 25%;" class="slider-track-low"></div><div style="left: 25%; width: 50%;" class="slider-selection"></div><div style="right: 0px; width: 25%;" class="slider-track-high"></div><div tabindex="0" aria-valuenow="-100" style="left: 25%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle min-slider-handle round"></div><div tabindex="0" aria-valuenow="100" style="left: 75%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle max-slider-handle round"></div></div><div style="left: 50%; margin-left: -35.5px;" role="presentation" class="tooltip tooltip-main top"><div class="tooltip-arrow"></div><div class="tooltip-inner">-100 : 100</div></div><div style="left: 25%; margin-left: -20.5px; display: none;" role="presentation" class="tooltip tooltip-min top"><div class="tooltip-arrow"></div><div class="tooltip-inner">-100</div></div><div style="left: 75%; margin-left: -18.5px; display: none;" role="presentation" class="tooltip tooltip-max top"><div class="tooltip-arrow"></div><div class="tooltip-inner">100</div></div></div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-lte-slider-slider1</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

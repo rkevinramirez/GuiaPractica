@@ -1,0 +1,55 @@
+<snippet>
+	<content><![CDATA[
+<div class="box box-info">
+            <div class="box-header with-border">
+              <h3 class="box-title">Formulario Horizontal</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form class="form-horizontal">
+              <div class="box-body">
+                <div class="form-group">
+                  <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+
+                  <div class="col-sm-10">
+                    <input class="form-control" id="inputEmail3" placeholder="Email" type="email">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="inputPassword3" class="col-sm-2 control-label">Contraseña</label>
+
+                  <div class="col-sm-10">
+                    <input class="form-control" id="inputPassword3" placeholder="Password" type="password">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <label for="inputPassword4" class="col-sm-2 control-label">Repetir contraseña</label>
+
+                  <div class="col-sm-10">
+                    <input class="form-control" id="inputPassword4" placeholder="Password" type="password">
+                  </div>
+                </div>
+                <div class="form-group">
+                  <div class="col-sm-offset-2 col-sm-10">
+                    <div class="checkbox">
+                      <label>
+                        <input type="checkbox"> Recu{erdame}
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <!-- /.box-body -->
+              <div class="box-footer">
+                <button type="submit" class="btn btn-default">Cancelar</button>
+                <button type="submit" class="btn btn-info pull-right">Iniciar</button>
+              </div>
+              <!-- /.box-footer -->
+            </form>
+          </div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-lte-form-hor</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

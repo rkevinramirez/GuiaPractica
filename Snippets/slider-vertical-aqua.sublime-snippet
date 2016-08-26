@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<div id="aqua" class="slider slider-vertical"><div class="slider-track"><div style="top: 0px; height: 25%;" class="slider-track-low"></div><div style="top: 25%; height: 50%;" class="slider-selection"></div><div style="bottom: 0px; height: 25%;" class="slider-track-high"></div><div tabindex="0" aria-valuenow="-100" style="top: 25%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle min-slider-handle round"></div><div tabindex="0" aria-valuenow="100" style="top: 75%;" aria-valuemax="200" aria-valuemin="-200" role="slider" class="slider-handle max-slider-handle round"></div></div><div style="left: 100%; top: 50%; margin-top: -11.5px;" role="presentation" class="tooltip tooltip-main right"><div class="tooltip-arrow"></div><div class="tooltip-inner">-100 : 100</div></div><div style="left: 100%; top: 25%; margin-top: -11.5px; display: none;" role="presentation" class="tooltip tooltip-min right"><div class="tooltip-arrow"></div><div class="tooltip-inner">-100</div></div><div style="left: 100%; top: 75%; margin-top: -11.5px; display: none;" role="presentation" class="tooltip tooltip-max right"><div class="tooltip-arrow"></div><div class="tooltip-inner">100</div></div></div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>bs-lte-slider-vertical-aqua</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
